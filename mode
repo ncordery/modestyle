@@ -1,0 +1,29 @@
+  html,
+  body {
+      background: #F7F7F9 !important;
+  }
+  
+  .chart {
+      background-color: #F7F7F9;
+      border: none;
+  }
+  
+  .mode-embed .mode-object {
+      border: none;
+      background: #F7F7F9;
+  }
+  
+   tr:nth-child(even) {
+    background-color: #f8f8f8;
+   
+   th: {
+      background-color: #F7F7F9;
+    }
+  }
+
+  h1,
+  h2,
+  h3 {
+    margin: 0 !important;
+  }
+  
